@@ -1,0 +1,59 @@
+mark {
+  font-size: 20px;
+  background-color:#e5e51a;
+  color:#1a1ae5;  
+}
+.Circle{
+  border-radius: 999em
+}
+h1, h2, h3, a {
+  color: #e5e51a;
+}
+img, iframe {
+  padding: 2px;
+  border: 7px solid yellow;
+  background-color: #1a1ae5;
+  border-style: groove;
+  border-radius: 50px 50px 50px 50px;
+  box-shadow: 10px 10px 10px #999;
+
+}
+.WorkingDog, strong{
+  color:#1a1ae5;
+  background-color: #e5e51a;
+}
+table,tr,td,th {
+  border: 2px #1a1ae5;
+  border-style: solid;
+  padding: 2px;
+  background-color: #e5e51a;
+  color: #1a1ae5;
+  border-radius: 20px 20px 20px 20px;
+}
+.CurveBorder{
+  padding: 2px;
+  border: 7px solid yellow;
+  background-color: #1a1ae5;
+  border-style: groove;     
+  border-radius: 1525x 50px 800px 5px;
+}
+ table{
+  box-shadow: 10px 10px 10px #999;
+}
+body{
+  background-color: #1a1ae5;
+  
+}
+p,ol,li{
+  color: #e5e51a
+}
+button{
+    padding: 2px;
+  border: 7px solid yellow;
+  background-color: #1a1ae5;
+  border-style: ridge;
+  border-radius: 10px 10px 10px 10px;
+  color: #e5e51a;
+}
+
+
